@@ -2,6 +2,8 @@
 
 https://coreykirschner.github.io/sturdy-spork-week-5-scheduler/
 
+<img width="1470" alt="Screen Shot 2022-11-14 at 10 11 14 PM" src="https://user-images.githubusercontent.com/114973010/201840143-cc9ab20b-e7c3-4c6b-83e8-efc9dfe61c15.png">
+
 ## Your Task
 
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
